@@ -1,5 +1,5 @@
 # teb_local_planner_tutorials
-### Running Instructions:
+## Running Instructions:
 1. Install dependencies:
     ```shell
     sudo apt install ros-melodic-navigation

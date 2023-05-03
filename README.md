@@ -10,7 +10,7 @@
 4. Once you are finished with all the dependencies, you can git clone this package from github into your ROS workspace and `catkin_make` it. 
     ```shell
     cd ~/catkin_ws/src
-    git clone source code or copy the sample code to the source file folder
+    git clone https://github.com/haotiangu/teb_local_planner_tutorials.git
     cd ~/catkin_ws
     catkin_make
     cd ~/catkin_ws/src 
